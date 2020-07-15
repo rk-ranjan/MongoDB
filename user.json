@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "5f0bed7d31e537103cb0b39a"
+  },
+  "UserId": 123,
+  "UserName": "RavRanjan",
+  "Email": "ravi.ranjan@microfocus.com",
+  "Password": "admin",
+  "IsAdmin": "false",
+  "_class": "com.rk.mit.OTS.model.User"
+},{
+  "_id": {
+    "$oid": "5f0c864f31e537103cb0b39b"
+  },
+  "UserId": "124",
+  "UserName": "MainAdmin",
+  "Email": "rk.ranjan96@gmail.com",
+  "Password": "Admin123",
+  "IsAdmin": "true"
+},{
+  "_id": {
+    "$oid": "5f0eff13d4857d07a0a07efd"
+  },
+  "UserId": 121,
+  "UserName": "Ramu",
+  "Email": "Ramu@gmail.com",
+  "IsAdmin": "true",
+  "_class": "com.rk.mit.OTS.model.User"
+},{
+  "_id": {
+    "$oid": "5f0eff82d4857d07a0a07efe"
+  },
+  "UserId": 121,
+  "UserName": "Avish",
+  "Email": "Avish@gmail.com",
+  "Password": "avish",
+  "IsAdmin": "true",
+  "_class": "com.rk.mit.OTS.model.User"
+}]
